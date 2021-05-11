@@ -1,10 +1,13 @@
 _repo: The-Physical-Training-of-Children_65260
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Gretchell, F. H.
     gutenberg_agent_id: '53259'
     url: http://www.gutenberg.org/2009/agents/53259
+covers:
+- cover_type: archival
+  image_path: 65260-h/images/cover.jpg
 creator:
   author:
     agent_name: Chavasse, Pye Henry
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '2106'
     url: http://www.gutenberg.org/2009/agents/2106
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65260#The-Physical-Training-of-Children
 gutenberg_issued: '2021-05-05'
 gutenberg_type: Text
 identifiers:
