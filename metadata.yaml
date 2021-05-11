@@ -1,0 +1,27 @@
+_repo: The-Physical-Training-of-Children_65260
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Gretchell, F. H.
+    gutenberg_agent_id: '53259'
+    url: http://www.gutenberg.org/2009/agents/53259
+creator:
+  author:
+    agent_name: Chavasse, Pye Henry
+    birthdate: 1810
+    deathdate: 1879
+    gutenberg_agent_id: '2106'
+    url: http://www.gutenberg.org/2009/agents/2106
+description: ''
+gutenberg_issued: '2021-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65260'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Physical Training of Children
+url: http://www.gutenberg.org/ebooks/65260
